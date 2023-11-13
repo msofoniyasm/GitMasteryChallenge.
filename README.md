@@ -1,3 +1,3 @@
-# This is from feature-branch and this is the second commit
+# This is from feature-branch and this is the third commit
 
-this branch is created To fix a bug and it's created to isolate the fix for a bug from the main codebase. so developers to test the fix thoroughly before merging it into the main branch.
+this brach is created to prepare the file for a new release of the software. This branch can be used to stage changes, test the release candidate, and gather feedback before deploying the release to production.
