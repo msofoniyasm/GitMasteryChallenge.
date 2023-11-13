@@ -1,3 +1,3 @@
-# This is from feature-branch and this is the first commit
+# This is from feature-branch and this is the second commit
 
-this branch is created to develop a new feature and also to isolate the development of a new feature from the main branch. This prevents potential conflicts and allows developers to work on the feature without affecting the stability of the main branch.
+this branch is created To fix a bug and it's created to isolate the fix for a bug from the main codebase. so developers to test the fix thoroughly before merging it into the main branch.
