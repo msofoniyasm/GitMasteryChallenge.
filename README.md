@@ -1,3 +1,3 @@
-# GitMasteryChallenge.
-Description
-this repository is  a comprehensive resource for those who seek to increase their understanding of Git, which is a version control system, widely used for software development. It also provides a structured learning path, including fundamental concepts, practical applications, and advanced techniques and helps users to effectively manage their code projects and collaborate with one another.
+# This is from feature-branch and this is the third commit
+
+this brach is created to prepare the file for a new release of the software. This branch can be used to stage changes, test the release candidate, and gather feedback before deploying the release to production.
