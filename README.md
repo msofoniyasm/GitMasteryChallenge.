@@ -1,3 +1,3 @@
-# This is from feature-branch and this is the third commit
+# This is from pull-request-branch and this is the first commit
 
-this brach is created to prepare the file for a new release of the software. This branch can be used to stage changes, test the release candidate, and gather feedback before deploying the release to production.
+we create this branch to commit some change and then pull request to the main branch and merge it
