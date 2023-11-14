@@ -1,0 +1,5 @@
+#Why do we need branchs?
+
+Branches are essential for software development because they allow developers to isolate changes and work on different 
+versions of the code simultaneously without affecting the main codebase. This is particularly important for large projects
+with multiple contributors, as it prevents conflicts and ensures that the main codebase remains stable and functional.
