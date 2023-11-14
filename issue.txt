@@ -1,0 +1,17 @@
+#The purpose of creating issue
+
+1. Tracking tasks and bugs: Issues provide a structured way to track tasks, bugs, and enhancements related to a GitHub project. This allows developers to 
+easily prioritize work, assign tasks, and keep track of progress.
+
+2. Centralizing communication: Issues serve as a central hub for communication around specific project tasks or issues. Developers can discuss potential solutions, 
+share ideas, and provide updates without cluttering up other channels like email or chat.
+
+3. Improving transparency: Issues promote transparency by making project progress and discussions visible to all contributors. This fosters collaboration and ensures 
+that everyone is on the same page.
+
+4. Documenting project history: Issues provide a valuable record of project history, capturing discussions, decisions, and resolutions related to specific 
+tasks or bugs. This can be helpful for reference or when onboarding new contributors.
+
+5. Facilitating prioritization: Issues allow for effective prioritization of tasks and bugs based on their severity, impact, and urgency. This helps developers 
+focus on the most critical issues first.
+
