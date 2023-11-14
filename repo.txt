@@ -1,0 +1,10 @@
+#what is repository
+
+A repository in GitHub is a central location for storing and managing your project's code, documentation, and other related files. 
+It serves as a collaborative space where developers can work together on the project, track changes, and share their contributions.
+
+Here are some of the key uses of a repository in GitHub:
+1. Storing and managing project code
+2. Version control
+3. Collaboration
+4. issue tracking
